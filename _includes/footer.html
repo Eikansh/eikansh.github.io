@@ -5,33 +5,23 @@
 
     <div class="footer-col-wrapper">
       <div class="footer-col">
-        <p class="feed-subscribe">
-          <a href="{{ 'feed.xml' | relative_url }}">
+        {%- include social.html -%}
+      </div>
+    </div>
+
+    <div class="footer-col-wrapper" style="text-align:center">
+      <div class="footer-col">
+        Powered by <a href="https://jekyllrb.com/">Jekyll</a>. <a href="https://github.com/jekyll/minima">Minima</a> Theme. 
+        <a href="{{ 'feed.xml' | relative_url }}">
             <svg class="svg-icon orange">
               <use xlink:href="{{ 'assets/minima-social-icons.svg#rss' | relative_url }}"></use>
-            </svg><span>Subscribe</span>
-          </a>
-        </p>
-      {%- if site.author %}
-        <ul class="contact-list">
-          {% if site.author.name -%}
-            <li class="p-name">{{ site.author.name | escape }}</li>
-          {% endif -%}
-          {% if site.author.email -%}
-            <li><a class="u-email" href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></li>
-          {%- endif %}
-        </ul>
-      {%- endif %}
-      </div>
-      <div class="footer-col">
-        <p>{{ site.description | escape }}</p>
+            </svg>
+        </a>
+        <br>
+        <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a> 
+         &copy {{ "now" | date: "%Y" }}
       </div>
     </div>
-
-    <div class="social-links">
-      {%- include social.html -%}
-    </div>
-
   </div>
 
 </footer>

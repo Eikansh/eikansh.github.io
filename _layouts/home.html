@@ -33,6 +33,8 @@ layout: default
         </h3>
         {%- if site.show_excerpts -%}
           {{ post.excerpt }}
+        {%- else -%}
+          {{ post.content | strip_html | truncatewords: 50 }}
         {%- endif -%}
       </li>
       {%- endfor -%}

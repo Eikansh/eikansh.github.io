@@ -1,8 +1,7 @@
 ---
-layout : post
+layout : note
 title : "Notes on Personal Finance"
 tags : notes
-comments : true
 ---
 
 These notes are from books:

@@ -67,7 +67,7 @@ minima:
     #   instance: example.com
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "eikansh.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://eikansh.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
 header_pages:

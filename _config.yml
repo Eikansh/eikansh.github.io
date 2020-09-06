@@ -24,9 +24,6 @@ author:
   email: eikanshgupta@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
 
-show_excerpts: false # set to true to show excerpts on the homepage
-permalink: pretty
-
 # Minima date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
 minima:
@@ -87,11 +84,13 @@ google_analytics: UA-177205568-1
 
 # specifies how many items should be displayed per page on home page
 paginate : 10
+show_excerpts: false # set to true to show excerpts on the homepage
+permalink: /:categories/:title
 
 collections:
     notes:
         output: true
-        permalink: /:collection/:name/
+        permalink: /:categories/:title
     drafts:
         output: false
 

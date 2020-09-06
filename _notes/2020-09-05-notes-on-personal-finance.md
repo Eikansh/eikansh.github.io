@@ -20,8 +20,8 @@ These notes are from books:
 
 |-|-|
 | **Fixed cost** <br> (Rent, utilities, debt, etc.) | 45–50% of take-home pay |
-| **Guilt-free spending money** <br> Dining out, drinking, movies, clothes, shoes, etc.) | 20-35% |
-| **Investments and saving goals** <br> PPF, FDs, buying a house etc.) | 20-25% |
+| **Guilt-free spending money** <br> (Dining out, drinking, movies, clothes, shoes, etc.) | 20-35% |
+| **Investments and saving goals** <br> (PPF, FDs, buying a house etc.) | 20-25% |
 
 - Build cash flow system. Use 3 bank account(income account, spent-it, invest-it) 
 - Use zero balance account for income account. 

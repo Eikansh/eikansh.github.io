@@ -9,7 +9,6 @@ Jekyll is a static site generator and github pages are used to host the site bui
 In this blog, I outline the installation steps and how you can customize your blog.
 
 **Important: These installation steps are for Ubuntu 16.04.**
-## Installation
 
 ### Installing ruby using `rbenv`
 Steps to install ruby can be found at [gorails website](https://gorails.com/setup/ubuntu/16.04#ruby-rbenv).
@@ -97,7 +96,7 @@ You can add share buttons to every post by following the directions given [here]
 [jekyllcodex](https://jekyllcodex.org/without-plugins/) has some plugin free solutions for jekyll blogs.
 
 #### Changing layout of the blog
-`_layouts` folder contains the files related to header, footer, pages format etc. They contains `html` code which can be changed as required or you can add file containing customized layout. This file has to be added to the front matter in your post.
+`_layouts` folder contains the files related to different layouts. `_includes` folder contains header.html, footer.html etc. They contains `html` code which can be changed as required or you can add file containing customized layout. This file has to be added to the front matter in your post.
 
 eg. I created `note.html` file to have a different layout than the post. So to get `note` layout for a particular post, its front matter will contain:
 {% highlight yaml %}

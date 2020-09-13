@@ -7,7 +7,9 @@ permalink: /notes/
     <h1 class="post-title">{{ page.title | escape }}</h1>
 </header>
 
-This page contains notes from the books I read.
+This page contains notes from the books I read.  
+
+My [Goodreads profile](https://www.goodreads.com/user/show/63399535-eikansh-gupta).
 
 <ul class="post-list">
       {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}

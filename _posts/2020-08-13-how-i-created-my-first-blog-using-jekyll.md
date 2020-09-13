@@ -4,7 +4,7 @@ title : "How I created my first blog using Jekyll and Github Pages"
 imgpath: "/assets/img/"
 ---
 
-Jekyll is a static site generator and github pages are used to host the site build using jekyll. If you are comfortable with reading and understanding code, you can easily built a site using these tools. I customized the `minima` theme to suite my needs and for this I had to read about jekyll, liquid template, html, css and markdown. But I am amazed that with some efforts we can easily have a professional looking website. After looking at the result, I think it is well worth the efforts.  
+Jekyll is a static site generator and github pages are used to host the site build using jekyll. If you are comfortable with reading and understanding code, you can easily built a site using these tools. I customized the `minima` theme to suit my needs and for this I had to read about jekyll, liquid template, html, css and markdown. But I am amazed that with some efforts we can easily have a professional looking website. After looking at the result, I think it is well worth the efforts.  
 
 In this blog, I outline the installation steps and how you can customize your blog.
 

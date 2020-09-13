@@ -8,7 +8,7 @@ Jekyll is a static site generator and github pages are used to host the site bui
 
 In this blog, I outline the installation steps and how you can customize your blog.
 
-**Important: These installation steps are for Ubuntu 16.04.**
+**Important: These installation steps are for Ubuntu 16.04. But I have included the links for other versions of Ubuntu.**
 
 ### Installing ruby using `rbenv`
 Steps to install ruby can be found at [gorails website](https://gorails.com/setup/ubuntu/16.04#ruby-rbenv).

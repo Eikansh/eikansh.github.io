@@ -1,7 +1,7 @@
 ---
 layout : note
 title : "Notes on Personal Finance"
-tags : notes
+tags : notes monica ramit
 ---
 
 These notes are from books:

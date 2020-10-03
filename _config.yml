@@ -85,12 +85,12 @@ google_analytics: UA-177205568-1
 # specifies how many items should be displayed per page on home page
 paginate : 10
 show_excerpts: false # set to true to show excerpts on the homepage
-permalink: /:categories/:year/:month/:title/
+permalink: /:categories/:title/
 
 collections:
     notes:
         output: true
-        permalink: /:categories/:year/:month/:title/
+        permalink: /:categories/:title/
     drafts:
         output: false
 

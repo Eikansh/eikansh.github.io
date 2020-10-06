@@ -22,7 +22,8 @@ title: Eikansh Gupta
 author:
   name: Eikansh Gupta
   email: eikanshgupta@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
+description: > # this means to ignore newlines until "baseurl:"
+  Hi, I am Eikansh Gupta. I love computers and I am passionate to learn about them. Currently I am a MTech. student at Indian Institute of Science(IISc), Bangalore in Computer Science and Automation(CSA).
 
 # Minima date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
@@ -83,7 +84,7 @@ disqus:
 google_analytics: UA-177205568-1
 
 # specifies how many items should be displayed per page on home page
-paginate : 10
+# paginate : 
 show_excerpts: false # set to true to show excerpts on the homepage
 permalink: /:categories/:title/
 

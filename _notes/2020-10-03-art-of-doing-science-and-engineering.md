@@ -1,6 +1,6 @@
 ---
 layout : note
-title : "Art of doing Science and Engineering by Richard Hamming"
+title : "The Art of Doing Science and Engineering by Richard Hamming"
 tags : notes hamming
 ---
 
@@ -24,7 +24,7 @@ tags : notes hamming
 	- Impromptu talks
 - It is first necessary to prove beyond doubt any new thing before it can get into the system. So don't get discouraged when your idea is stoutly, and perhaps foolishly, resisted. 
 - As you go on in your careers you should examine the applications which succeed and those fail; try to learn how to distinguish between them; try to understand the situation which produce successes and those which almost guarantees failure. 
-- It is not the same job you do with machines, but rather an equivalent job and in a way so that future, flexible,, expansion can be easily added. 
+- It is not the same job you do with machines, but rather an equivalent job and in a way so that future, flexible, expansion can be easily added. 
 - Working calmly will let you elaborate and extend things, but the breakthroughs generally come only after great frustration and emotional involvement. 
 - It pays to know more than just what is needed at the moment. 
 - Know the fundamental very well; the fancy parts then follow easily and you can do things that they never told you about. 

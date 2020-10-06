@@ -13,7 +13,7 @@ My [Goodreads profile](https://www.goodreads.com/eikansh)
 
 <ul class="post-list">
       {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-      {%- for note in site.notes -%}
+      {%- for note in site.notes reversed -%}
       <li>
         <span class="post-meta">{{ note.date | date: date_format }}</span>
         <h3>

@@ -2,7 +2,6 @@
 layout : note
 title : "Design and Analysis of Algorithms"
 tags : notes 
-usemathjax: true
 ---
 
 ## Lecture 1 : Divide & conquer : convex Hull, median finding 

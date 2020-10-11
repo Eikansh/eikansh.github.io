@@ -2,6 +2,7 @@
 layout : note
 title : "Design and Analysis of Algorithms"
 tags : notes 
+modified_date : 2020-10-11
 ---
 
 ## Lecture 1 : Divide & conquer : convex Hull, median finding 
@@ -98,11 +99,17 @@ Pick $$X$$ cleverly
 
 How many elements are guaranteed to be $$> X$$?  
 Half of the $$\left \lceil{n/5}\right \rceil$$ group contribute at least 3 elements $$>X$$ except for 1 group with less than 5 elements & 1 group that contains $$X$$.  
+So, if we exclude these two columns, there are :  
 Atleast $$3(\left \lceil{n/10}\right \rceil - 2)$$ elements are $$>X$$  
 Atleast $$3(\left \lceil{n/10}\right \rceil - 2)$$ elements are $$<X$$  
 
 ##### Reccurence
 
-$$T(n) = O(1)$$ for $$n \leq 140$$  
-$$T(n) = T(\left \lceil{n/5}\right \rceil) + T(\left \lceil{7n/10+6}\right \rceil) + \Theta (n)$$
+Time complexity : $$O(n)$$    
 
+$$T(n) = O(1)$$ for $$n \leq 140$$  
+$$T(n) = T(\left \lceil{n/5}\right \rceil) + T(\left \lceil{7n/10+6}\right \rceil) + \Theta (n)$$  
+- $$140$$ is a arbitrary constant. It can be any constant value.
+- Term $$T(\left \lceil{n/5}\right \rceil)$$ is for finding median of medians or pivot. $$\Theta(1)$$ time for dividing and sorting array for $$\left \lceil{n/5}\right \rceil$$ columns.
+- $$T(\left \lceil{7n/10+6}\right \rceil)$$ is the max size of partition that can be recurred on.
+- $$\Theta(n)$$ is the time taken to partitioning the array w.r.t. pivot.

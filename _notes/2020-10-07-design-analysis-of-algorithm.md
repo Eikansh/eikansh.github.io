@@ -100,8 +100,8 @@ Pick $$X$$ cleverly
 How many elements are guaranteed to be $$> X$$?  
 Half of the $$\left \lceil{n/5}\right \rceil$$ group contribute at least 3 elements $$>X$$ except for 1 group with less than 5 elements & 1 group that contains $$X$$.  
 So, if we exclude these two columns, there are :  
-Atleast $$3(\left \lceil{n/10}\right \rceil - 2)$$ elements are $$>X$$  
-Atleast $$3(\left \lceil{n/10}\right \rceil - 2)$$ elements are $$<X$$  
+Atleast $$3(\left \lceil{n/10}\right \rceil - 2)$$ elements $$>X$$  
+Atleast $$3(\left \lceil{n/10}\right \rceil - 2)$$ elements $$<X$$  
 
 ##### Reccurence
 

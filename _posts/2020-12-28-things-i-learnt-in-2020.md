@@ -6,7 +6,7 @@ title : "Things I learnt in 2020"
 As Forrest Gump's mama said,  
 >‘Life is like a box of chocolates. You never know what you’re gonna get.'
 
-But nobody knew the year 2020 would open a Pandora box for us. There were lockdowns which derailed economies. But to some lucky ones like me, it gave a lot of free time and I was too bored, so I tried everything. Here are the which I learned this year :
+But nobody knew the year 2020 would open a Pandora box for us. There were lockdowns which derailed economies. But to some lucky ones like me, it gave a lot of free time and I was too bored, so I tried everything. Here are the things which I learned this year :
 1. **Cooking** : From only knowing to make tea to preparing lip-smacking paneer butter masala on Diwali, is a giant leap for me(maybe a small step for mankind). I was living in a rented flat in March. Lockdown forced me to learn cooking. With free time and youtube tutorials what cannot be learned.
 2. **Concept of once a week exercise** : I read Body by Science by Dr. Doug Macduff and John Little. It changed my view point regarding strength training. I found the exercise program described in the book beneficial and it fits with my priorities. 
 3. **Kernel development** : I started learning about OS development from [MIT 6.828: Operating System Engineering](https://pdos.csail.mit.edu/6.828/2018/schedule.html). It is the most difficult thing I have ever done this year. It was fun and frustrating at the same time. Doing it alone without much lecture material made it more difficult. I could only complete it half but it exposed me to so much new material. Looking back I am still proud of all the [homework and lab work](https://github.com/Eikansh/jos) I did for the course.

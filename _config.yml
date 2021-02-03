@@ -92,6 +92,9 @@ collections:
     notes:
         output: true
         permalink: /notes/:title/
+    30in30:
+        output: true
+        permalink: /30in30/:title/
     drafts:
         output: false
 
@@ -109,6 +112,11 @@ defaults:
   - scope:
       path: ""
       type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+      type: "30in30"
     values:
       layout: "post"
 

@@ -1,6 +1,6 @@
 ---
 layout : post
-title : "Why I am building writing habit?"
+title : "Why I am building a writing habit?"
 tags : 30in30
 ---
 

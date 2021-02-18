@@ -1,6 +1,6 @@
 ---
 layout : post
-title : "The race for grades"
+title : "Living in best of times"
 tags : 30in30
 ---
 

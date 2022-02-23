@@ -1,5 +1,5 @@
 ---
-layout : note
+layout : post
 title : "Notes on Personal Finance"
 tags : notes monica ramit
 ---

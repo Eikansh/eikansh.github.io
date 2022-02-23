@@ -1,5 +1,5 @@
 ---
-layout : note
+layout : post
 title : "The Art of Doing Science and Engineering by Richard Hamming"
 tags : notes hamming
 ---

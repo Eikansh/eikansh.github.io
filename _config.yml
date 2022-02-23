@@ -69,8 +69,7 @@ url: "https://eikansh.github.io" # the base hostname & protocol for your site, e
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
 header_pages:
-  - notes.md
-  - links.md
+  - quotes.md
   - about.markdown
 # Build settings
 plugins:
@@ -89,9 +88,6 @@ show_excerpts: false # set to true to show excerpts on the homepage
 permalink: /:categories/:title/
 
 collections:
-    notes:
-        output: true
-        permalink: /notes/:title/
     30in30:
         output: true
         permalink: /30in30/:title/
@@ -99,11 +95,6 @@ collections:
         output: false
 
 defaults:
-  - scope:
-      path: ""
-      type: "notes"
-    values:
-      layout: "note"
   - scope:
       path: ""
       type: "pages"

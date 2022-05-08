@@ -2,8 +2,7 @@
 layout : post
 title : "Living the uncertainty"
 --- 
-*Transcript of the speech given at Toastmasters club.  
-Purpose: To introduce myself*
+*Note: This is the transcript of the speech I gave at Toastmasters club. The purpose was to introduce myself.*
 
 Good evening fellow toastmasters and guests. 
 

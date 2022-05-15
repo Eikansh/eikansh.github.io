@@ -80,7 +80,8 @@ plugins:
 disqus:
   shortname: eikansh 
 
-google_analytics: UA-177205568-1
+# google_analytics: UA-177205568-1
+google_analytics: 315120074
 
 # specifies how many items should be displayed per page on home page
 # paginate : 

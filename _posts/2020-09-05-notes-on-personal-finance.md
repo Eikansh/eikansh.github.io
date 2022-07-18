@@ -2,6 +2,7 @@
 layout : post
 title : "Notes on Personal Finance"
 tags : notes monica ramit
+toc: true
 ---
 
 These notes are from books:

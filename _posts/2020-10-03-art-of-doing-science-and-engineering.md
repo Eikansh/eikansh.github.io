@@ -2,6 +2,7 @@
 layout : post
 title : "The Art of Doing Science and Engineering by Richard Hamming"
 tags : notes hamming
+toc: true
 ---
 
 - Half life of technical knowledge is about 15 years. It means in 15 years half of your knowledge will be obsolete.

@@ -29,7 +29,7 @@ description: > # this means to ignore newlines until "baseurl:"
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
 minima:
   date_format: "%b %-d, %Y"
-  skin: classic
+  skin: auto
 
   # generate social links in footer
   social_links:
@@ -69,8 +69,8 @@ url: "https://eikansh.github.io" # the base hostname & protocol for your site, e
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
 header_pages:
+  - archive.md
   - quotes.md
-  - about.markdown
 # Build settings
 plugins:
   - jekyll-feed

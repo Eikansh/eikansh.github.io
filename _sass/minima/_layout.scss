@@ -25,6 +25,11 @@
   &,
   &:visited {
     color: $site-title-color;
+    text-decoration: none;
+  }
+  &:hover {
+    color: $link-hover-color;
+    text-decoration: none;
   }
 }
 
@@ -84,6 +89,16 @@
       margin-right: 0;
     }
     margin-left: 20px;
+
+    &,
+    &:visited {
+      color: $site-title-color;
+      text-decoration: none;
+    }
+    &:hover {
+      color: $link-hover-color;
+      text-decoration: none;
+    }
   }
 
   @media screen and (min-width: $on-medium) {
@@ -144,7 +159,7 @@
 .footer-col-wrapper,
 .social-links {
   @include relative-font-size(0.9375);
-  color: $brand-color;
+  color: $text-color;
 }
 
 .footer-col {

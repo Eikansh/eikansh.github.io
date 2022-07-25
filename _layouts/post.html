@@ -29,13 +29,13 @@ layout: default
 
   {%- if page.toc -%}
     <aside class="post-toc">
-      <h4>Table of Contents</h4>
+      <h3>Table of Contents</h3>
       <nav class="post-toc-navigation">
-        {% include toc.html html=content %}
+        {% include toc.html html=content ordered=true%}
       </nav>
     </aside>
   {%- endif -%}
-
+  
   <div class="post-content e-content" itemprop="articleBody">
     {{ content }}
   <!--

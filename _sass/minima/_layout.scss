@@ -355,3 +355,11 @@
     width: calc(50% - (#{$spacing-unit} / 2));
   }
 }
+
+/** 
+ * Table of contents
+ */
+.post-toc {
+  border-style: none none none solid;
+  padding-left: 10px;
+}
